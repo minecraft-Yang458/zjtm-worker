@@ -1,6 +1,7 @@
-name = "zhujietongmeng-api"
-compatibility_date = "2023-10-01"
 
+compatibility_date = "2023-10-01"
+# wrangler.toml
+name = 'zjtm-worker'
 # KV命名空间绑定
 [[kv_namespaces]]
 binding = "MODS_STORE"
