@@ -1,0 +1,14 @@
+{
+  "name": "zhujietongmeng-workers",
+  "version": "1.0.0",
+  "description": "Cloudflare Workers API for 筑界同盟",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
