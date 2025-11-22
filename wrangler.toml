@@ -5,11 +5,11 @@ main = "src/index.js"
 # KV命名空间绑定
 [[kv_namespaces]]
 binding = "MODS_STORE"
-id = "zjtm-mod"  # 替换为实际的KV命名空间ID
+id = "0e80c6b5e1b6469f8fa530ba8a657ed1"  # 替换为实际的KV命名空间ID
 
 [[kv_namespaces]]
 binding = "IMAGES_STORE"
-id = "zjtm-img"  # 替换为实际的图片KV命名空间ID
+id = "74b630f31a7f421fa603dcec95c8178d"  # 替换为实际的图片KV命名空间ID
 
 # 变量配置
 [vars]
