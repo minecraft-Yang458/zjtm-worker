@@ -1,0 +1,15 @@
+name = "zhujietongmeng-api"
+compatibility_date = "2023-10-01"
+
+# KV命名空间绑定
+[[kv_namespaces]]
+binding = "MODS_STORE"
+id = "zjtm-mod"  # 替换为实际的KV命名空间ID
+
+[[kv_namespaces]]
+binding = "IMAGES_STORE"
+id = "zjtm-img"  # 替换为实际的图片KV命名空间ID
+
+# 变量配置
+[vars]
+ADMIN_TOKEN = "zjtmNB666"  # 替换为实际的管理员令牌
